@@ -27,10 +27,3 @@ var goalDay = '2017/08/27 00:00:00'
      }
    }, 1000);
 
-   $('".hs-button').click(function(){
-     var complete = function () {
-       $('div.hs_email.field.hs-form-field').html("<h2>Thanks for the <i class='fa fa-heart' aria-hidden='true'></i>!</h2><h3>We are thrilled to help you save!</h3>");
-  };
-       $( ".hs-button" ).fadeOut( 600, "linear", complete );
-
-   });
