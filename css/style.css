@@ -247,7 +247,7 @@ header {
 	font-size: 6.5em;
 }
 
-img {
+#device {
 	width:100%;
 	height: auto;
 }
@@ -305,4 +305,23 @@ footer h4 {
 #map {
 	width: 100%;
 	min-height: 400px;
+}
+.hs-button {
+  background: #434443;
+  -webkit-border-radius: 6;
+  -moz-border-radiuss: 6;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 1.4em;
+  padding: 14px 30px 14px 30px;
+  text-decoration: none;
+  border: 0;
+  margin: 20px 20px 0 0;
+}
+#blueBand h1 {
+	color: #ffffff;
+}
+.section1 img {
+	height: 150px !important;
+	width: 150px !important;
 }
