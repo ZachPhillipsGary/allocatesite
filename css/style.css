@@ -349,3 +349,6 @@ color: #27B6C7;
 .signupform {
   display:none;
 }
+#showsignup {
+	padding-bottom: 10px;
+}
