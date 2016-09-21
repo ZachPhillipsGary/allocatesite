@@ -325,3 +325,27 @@ footer h4 {
 	height: 150px !important;
 	width: 150px !important;
 }
+.hs-button {
+  background: #434443;
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #ffffff;
+  font-size: 1.0em;
+  padding: 14px 30px 14px 30px;
+  text-decoration: none;
+  border: 0;
+  margin: 20px 20px 0 0;
+}
+.signup h3 {
+text-align:left;
+line-height: 1;
+letter-spacing: -.1rem;
+font-weight: 700;
+  text-decoration: overline;
+padding-botton:10px;
+color: #27B6C7;
+}
+.signupform {
+  display:none;
+}
